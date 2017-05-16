@@ -1,0 +1,20 @@
+{
+  "name": "couchdb-merge-docs",
+  "version": "1.0.0",
+  "description": "Script for merging JSON files into documents for bulk upload - useful for CouchDB imports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcrbrm/couchdb-merge-docs.git"
+  },
+  "keywords": [],
+  "author": "Web Cerebrium <webcerebrium@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcrbrm/couchdb-merge-docs/issues"
+  },
+  "homepage": "https://github.com/wcrbrm/couchdb-merge-docs#readme"
+}
